@@ -46,7 +46,7 @@ public class HomeController : Controller
     [HttpPost]
     public async Task<IActionResult> Create(Product model, IFormFile imageFile)
     {
-        const int maxFileSize = 2 * 1024 * 1024;
+        const int maxFileSize = 2 * 1024 ;
         var allowenExtensions = new[] {".jpg",".png",".jpeg"};
         var extension = Path.GetExtension(imageFile.FileName);
         var randomfileName = string.Format($"{Guid.NewGuid().ToString()}{extension}");

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BXfrSrUPDlJ/QbQBJfrrNNEPLfqLjuGaoAFPddiV9cs=",
+  "Hash": "ym6FGE0taEFHKriHPNCfimhXPSIf3EvbSEI51+dGWFQ=",
   "Source": "BookApp",
   "BasePath": "_content/BookApp",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\3.png"
+    },
+    {
+      "Identity": "C:\\Users\\emirh\\Desktop\\Bootcamp\\BookApp\\wwwroot\\img\\8a31b4be-ed3b-4872-922d-29844aef0813.jpg",
+      "SourceId": "BookApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emirh\\Desktop\\Bootcamp\\BookApp\\wwwroot\\",
+      "BasePath": "_content/BookApp",
+      "RelativePath": "img/8a31b4be-ed3b-4872-922d-29844aef0813.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\8a31b4be-ed3b-4872-922d-29844aef0813.jpg"
     },
     {
       "Identity": "C:\\Users\\emirh\\Desktop\\Bootcamp\\BookApp\\wwwroot\\img\\c8bb7d1a-e391-417c-8e2c-a48b7218126d.png",
